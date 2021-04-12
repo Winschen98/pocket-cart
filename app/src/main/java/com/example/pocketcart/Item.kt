@@ -1,6 +1,6 @@
 package com.example.pocketcart
 
-data class Item (
+data class Item(
         val title: String,
-        val isChecked: Boolean = false
+        var isChecked: Boolean = false
 )

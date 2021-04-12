@@ -16,10 +16,10 @@
 
 
     <EditText
-        android:id="@+id/etGroceryListTitle"
+        android:id="@+id/etItemTitle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Enter Grocery List Title"
+        android:hint="Enter Grocery Item"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnAdd"
         app:layout_constraintStart_toStartOf='parent'
