@@ -22,8 +22,7 @@
         android:hint="Enter Grocery Item"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnAdd"
-        app:layout_constraintStart_toStartOf='parent'
-        app:layout_constraintsBottom_toBottomOf='parent' />
+        app:layout_constraintStart_toStartOf='parent' />
 
     <Button
         android:id="@+id/btnAdd"
